@@ -8,3 +8,4 @@ in JavaScript.
 
 console.log("Hello World!")
 // console.log is used to print messages or values to the console.
+console.log("Hello from Ubuntu!");
